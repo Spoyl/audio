@@ -1,4 +1,4 @@
-Brain
+Audio
 -----
 
-A place to build JS ai apps (or at least try to). The idea is to develop and train the models here for later deployment to a webapp.
+A place to try out some audio stuff in js (or at least try to).
